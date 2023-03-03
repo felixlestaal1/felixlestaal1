@@ -5,10 +5,10 @@
 <h1 align="center">🛡️Hi there, I'm Alonso - Ethical hacker<img src="./src/wave.gif" width="30px"></h1>
 
 <p align="center"> 🔒  I am currently a cybersecurity professional with previous experience as a Software Development and Management Engineer 💻!! </p align="center">
-<p align="left"> 
-- 🧑  Man's strength lies in the mastery of his mind.
-- 👾  Always training
-- 🔍  Coming soon oscp
+<p align="left">
+- 🧑  Man's strength lies in the mastery of his mind.<br>
+- 👾  Always training<br>
+- 🔍  Coming soon oscp<br>
 <p align="left"> 
 
 <br />
