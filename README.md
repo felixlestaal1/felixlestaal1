@@ -41,7 +41,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlestaal1&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <p align="center">
-<img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+<img src="https://github.com/felixlestaal1/felixlestaal1/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 
 ---
