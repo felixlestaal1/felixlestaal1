@@ -44,7 +44,6 @@
 <img src="https://github.com/felixlestaal1/felixlestaal1/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 
----
 
 ## :tm: Favorite repositories
 
