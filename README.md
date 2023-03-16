@@ -43,9 +43,7 @@
 
 
 ---
-<center>
- ![Snake animation](https://github.com/felixlestaal1/felixlestaal1/blob/output/github-contribution-grid-snake.svg)
-  </center>
+
 
 ## :exclamation: Disclaimer
                                                    TO BE USED FOR Education Purpose
