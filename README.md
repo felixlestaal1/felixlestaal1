@@ -44,10 +44,9 @@
 <img src="https://github.com/felixlestaal1/felixlestaal1/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
 
-
-
-##  Favorite repositories
+## Favorite repositories
 ---
+
 
 [![reverse](https://github-readme-stats.vercel.app/api/pin/?username=felixlestaal1&repo=reverse&hide=_border=true&title_color=EF48E5&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true)](https://github.com/felixlestaal1/reverse)
 [![BashRuleta](https://github-readme-stats.vercel.app/api/pin/?username=felixlestaal1&repo=BashRuleta&hide=_border=true&title_color=36E2ED&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true)](https://github.com/felixlestaal1/BashRuleta)
