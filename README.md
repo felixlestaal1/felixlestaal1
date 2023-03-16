@@ -40,7 +40,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felixlestaal1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixlestaal1&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+<p align="center">
+<img src="https://github.com/aex03/aex03/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+</p>
 
 ---
 
