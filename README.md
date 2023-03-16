@@ -49,6 +49,7 @@
 ## :tm: Favorite repositories
 
 [![revershell2](https://github-readme-stats.vercel.app/api/pin/?username=felixlestaal1&repo=revershell2&hide=_border=true&title_color=EF48E5&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true)](https://github.com/felixlestaal1/revershell2)
+[![BashRuleta](https://github-readme-stats.vercel.app/api/pin/?username=felixlestaal1&repo=BashRuleta&hide=_border=true&title_color=36E2ED&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true)](https://github.com/felixlestaal1/BashRuleta)
 [![reverseshell](https://github-readme-stats.vercel.app/api/pin/?username=felixlestaal1&repo=reverseshell&hide=_border=true&title_color=EEAB37&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true)](https://github.com/felixlestaal1/reverseshell)
 [![cifrado](https://github-readme-stats.vercel.app/api/pin/?username=felixlestaal1&repo=cifrado&hide=_border=true&title_color=36E2ED&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&show_icons=true;count_private=true&amp;include_all_commits=true)](https://github.com/felixlestaal1/cifrado)
 
