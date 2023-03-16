@@ -1,11 +1,9 @@
 <p align="center">
   <img src="src/ex1.GIF" alt="Example 1" width="300" height="auto" />
-</p>
 
-<div style=“text-align: center;”> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=+%F0%9F%9B%A1%EF%B8%8FI'm+Alonso+-Ethical+hacker)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=+%F0%9F%9B%A1%EF%B8%8FI'm+Alonso+-Ethical+hacker)](https://git.io/typing-svg)
+
 
 
 <p align="center"> 🔒  I am currently a cybersecurity professional with previous experience as a Software Development and Management Engineer 💻!! </p align="center">
