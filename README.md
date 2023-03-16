@@ -1,6 +1,8 @@
 <p align="center">
   <img src="src/ex1.GIF" alt="Example 1" width="300" height="auto" />
 </p>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=+%F0%9F%9B%A1%EF%B8%8FI'm+Alonso+-Ethical+hacker)](https://git.io/typing-svg)
 
 
