@@ -12,7 +12,7 @@
 <p align="left">
 - 🧑  Man's strength lies in the mastery of his mind.<br>
 - 👾  Always training<br>
-- 🔍  Coming soon oscp<br>
+<br>
 <p align="left"> 
 
 <br />
